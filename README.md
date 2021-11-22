@@ -1,4 +1,4 @@
-### Olá Galerinha, me Chamo Walter Reis e atualmente estou cursando Bachalerado en Sistemas de Informações!
+### Olá Galerinha, me Chamo Walter Reis e atualmente estou cursando Bachalerado em Sistemas de Informações!
 
 <div align="center">
   <a href="https://github.com/walterreiss">
